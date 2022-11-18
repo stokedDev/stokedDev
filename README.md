@@ -1,8 +1,8 @@
  👋 Hi, I’m Maurice.
 <br>
-I'm Open to Front End Developer Career Opportunities.
+I'm Open to Front End Developer Career Opportunities and meeting coder friends.
 <br>
- 📫 You can reach me at info@stokeddev.com
+ 📫 You can email me at info@stokeddev.com
  <br>
 Have a Good Day!
 
