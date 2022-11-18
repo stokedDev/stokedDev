@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @stokedDev
-- <br>
+ 👋 Hi, I’m @stokedDev
+<br>
 I'm open to Front End Developer Career Opportunities
-- 📫 You can reach me by emailing me at info@stokeddev.com
+<br>
+ 📫 You can reach me by emailing me at info@stokeddev.com
+ <br>
 Have a Good Day!
 
 <!---
